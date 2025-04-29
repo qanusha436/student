@@ -27,9 +27,3 @@ public class student_details{
         
     }
     
-    
-}
-
-
-    
-}
